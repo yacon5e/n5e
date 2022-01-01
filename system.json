@@ -122,6 +122,6 @@
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "url": "https://discord.gg/Gxpm3GXDZT",
-  "manifest": "https://discord.gg/Gxpm3GXDZT",
+  "manifest": "https://raw.githubusercontent.com/yacon5e/naruto5e/main/system.json",
   "download": "https://discord.gg/Gxpm3GXDZT"
 }
