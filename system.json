@@ -1,0 +1,127 @@
+{
+  "name": "naruto5e",
+  "title": "Naruto 5e Custom System",
+  "description": "A system for playing the Naruto5e system in the Foundry Virtual Tabletop environment.",
+  "version": "1.5.5",
+  "author": "Yaco, Naruto5e base system made by Kingsare4ever",
+  "scripts": [],
+  "esmodules": ["naruto5e.js"],
+  "styles": ["naruto5e.css"],
+  "packs": [
+    {
+      "name": "heroes",
+      "label": "Starter Heroes",
+      "system": "naruto5e",
+      "path": "./packs/heroes.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "monsters",
+      "label": "Monsters (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/monsters.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "items",
+      "label": "Items (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/items.db",
+      "entity": "Item"
+    },
+    {
+      "name": "tradegoods",
+      "label": "Trade Goods (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/tradegoods.db",
+      "entity": "Item"
+    },
+    {
+      "name": "spells",
+      "label": "Spells (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/spells.db",
+      "entity": "Item"
+    },
+    {
+      "name": "classes",
+      "label": "Classes (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/classes.db",
+      "entity": "Item"
+    },
+    {
+      "name": "classfeatures",
+      "label": "Class Features (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/classfeatures.db",
+      "entity": "Item"
+    },
+    {
+      "name": "races",
+      "label": "Racial Features (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/races.db",
+      "entity": "Item"
+    },
+    {
+      "name": "monsterfeatures",
+      "label": "Monster Features (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/monsterfeatures.db",
+      "entity": "Item"
+    },
+    {
+      "name": "non-elemental-e-rank",
+      "label": "Non Elemental E-rank",
+      "system": "naruto5e",
+      "path": "./packs/non-elemental-e-rank.db",
+      "entity": "Item"
+    },
+    {
+      "name": "non-elemental-d-rank",
+      "label": "Non Elemental D-rank",
+      "system": "naruto5e",
+      "path": "./packs/non-elemental-d-rank.db",
+      "entity": "Item"
+    },
+    {
+      "name": "non-elemental-c-rank",
+      "label": "Non Elemental C-rank",
+      "system": "naruto5e",
+      "path": "./packs/non-elemental-c-rank.db",
+      "entity": "Item"
+    },
+    {
+      "name": "non-elemental-b-rank",
+      "label": "Non Elemental B-rank",
+      "system": "naruto5e",
+      "path": "./packs/non-elemental-b-rank.db",
+      "entity": "Item"
+    },
+    {
+      "name": "rules",
+      "label": "Rules (SRD)",
+      "system": "naruto5e",
+      "path": "./packs/rules.db",
+      "entity": "JournalEntry"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": true,
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "attributes.hp",
+  "secondaryTokenAttribute": "attributes.cp",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "0.8.9",
+  "url": "https://discord.gg/Gxpm3GXDZT",
+  "manifest": "https://discord.gg/Gxpm3GXDZT",
+  "download": "https://discord.gg/Gxpm3GXDZT"
+}
