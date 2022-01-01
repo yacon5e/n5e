@@ -2,7 +2,7 @@
   "name": "naruto5e",
   "title": "Naruto 5e Custom System",
   "description": "A system for playing the Naruto5e system in the Foundry Virtual Tabletop environment.",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "author": "Yaco, Naruto5e base system made by Kingsare4ever",
   "scripts": [],
   "esmodules": ["naruto5e.js"],
