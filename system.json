@@ -123,5 +123,5 @@
   "compatibleCoreVersion": "0.8.9",
   "url": "https://discord.gg/Gxpm3GXDZT",
   "manifest": "https://raw.githubusercontent.com/yacon5e/naruto5e/main/system.json",
-  "download": "https://discord.gg/Gxpm3GXDZT"
+  "download": "https://gitlab.com/yacon5e/naruto5e-foundry/-/raw/main/naruto5e.zip"
 }
