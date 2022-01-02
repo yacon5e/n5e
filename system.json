@@ -2,75 +2,12 @@
   "name": "naruto5e",
   "title": "Naruto 5e Custom System",
   "description": "A system for playing the Naruto5e system in the Foundry Virtual Tabletop environment.",
-  "version": "1.6.6",
+  "version": "0.5",
   "author": "Yaco, Naruto5e base system made by Kingsare4ever",
   "scripts": [],
   "esmodules": ["naruto5e.js"],
   "styles": ["naruto5e.css"],
   "packs": [
-    {
-      "name": "heroes",
-      "label": "Starter Heroes",
-      "system": "naruto5e",
-      "path": "./packs/heroes.db",
-      "entity": "Actor"
-    },
-    {
-      "name": "monsters",
-      "label": "Monsters (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/monsters.db",
-      "entity": "Actor"
-    },
-    {
-      "name": "items",
-      "label": "Items (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/items.db",
-      "entity": "Item"
-    },
-    {
-      "name": "tradegoods",
-      "label": "Trade Goods (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/tradegoods.db",
-      "entity": "Item"
-    },
-    {
-      "name": "spells",
-      "label": "Spells (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/spells.db",
-      "entity": "Item"
-    },
-    {
-      "name": "classes",
-      "label": "Classes (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/classes.db",
-      "entity": "Item"
-    },
-    {
-      "name": "classfeatures",
-      "label": "Class Features (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/classfeatures.db",
-      "entity": "Item"
-    },
-    {
-      "name": "races",
-      "label": "Racial Features (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/races.db",
-      "entity": "Item"
-    },
-    {
-      "name": "monsterfeatures",
-      "label": "Monster Features (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/monsterfeatures.db",
-      "entity": "Item"
-    },
     {
       "name": "non-elemental-e-rank",
       "label": "Non Elemental E-rank",
@@ -98,13 +35,6 @@
       "system": "naruto5e",
       "path": "./packs/non-elemental-b-rank.db",
       "entity": "Item"
-    },
-    {
-      "name": "rules",
-      "label": "Rules (SRD)",
-      "system": "naruto5e",
-      "path": "./packs/rules.db",
-      "entity": "JournalEntry"
     }
   ],
   "languages": [
