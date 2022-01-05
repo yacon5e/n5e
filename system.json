@@ -81,5 +81,5 @@
   "compatibleCoreVersion": "0.8.9",
   "url": "https://discord.gg/Gxpm3GXDZT",
   "manifest": "https://raw.githubusercontent.com/yacon5e/n5e/main/system.json",
-  "download": "https://gitlab.com/foundrynet/n5e/-/releases/release-1.5.5/downloads/n5e-release-1.5.5.zip"
+  "download": "https://github.com/yacon5e/n5e/raw/main/n5e.zip"
 }
