@@ -2,7 +2,7 @@
   "name": "n5e",
   "title": "n5e Custom System",
   "description": "A system for playing the N5E System in the Foundry Virtual Tabletop environment.",
-  "version": "0.6.1",
+  "version": "0.6.3",
   "author": "Yaco, System made by Kingsare4ever",
   "scripts": [],
   "esmodules": ["n5e.js"],
